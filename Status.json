@@ -1,1 +1,1 @@
-{"Open": true, "Message": "HTTP 410 (Gone)", "Flags": {"DISABLE_SUBMISSION": false, "DISABLE_REVIEWAL": false}}
+{"Open": true, "Message": "HTTP 410 (Gone)", "Flags": {"DISABLE_SUBMISSION": true, "DISABLE_REVIEWAL": true}}
