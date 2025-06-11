@@ -1,1 +1,1 @@
-{"Open": false, "Message": "Service is unavailable.", "Flags": {"DISABLE_SUBMISSION": false, "DISABLE_REVIEWAL": false}}
+{"Open": false, "Message": "Service is unavailable.", "Flags": {"DISABLE_SUBMISSION": true, "DISABLE_REVIEWAL": true}}
